@@ -1,4 +1,4 @@
-package br.com.nubank.client;
+package br.com.nubank.customer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

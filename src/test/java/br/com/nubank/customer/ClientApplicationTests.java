@@ -1,6 +1,5 @@
-package br.com.nubank.client;
+package br.com.nubank.customer;
 
-import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
